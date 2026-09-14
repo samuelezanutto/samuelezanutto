@@ -1,6 +1,6 @@
 # Samuele Zanutto
 
-Computer Science student at Ca' Foscari University of Venice, focused on full-stack web development.
+Computer Science student with a strong interest in systems administration, networking, and security, and hands-on experience across full-stack development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuele-zanutto-3007b8235)
 [![Email](https://img.shields.io/badge/Email-contact-D14836?logo=gmail&logoColor=white)](mailto:samuele.zanutto1@gmail.com)
